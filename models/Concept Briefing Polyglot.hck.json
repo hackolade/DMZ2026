@@ -19,71 +19,7 @@
     {
       "collectionName": "Mining Method Used",
       "type": "object",
-      "properties": [
-        {
-          "name": "New attribute",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "45de4c06-ba07-4507-b35b-1a1550f23ff5",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        },
-        {
-          "name": "New attribute1",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "fbe0991d-3587-4f9e-b2f5-dd453aa263c7",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        },
-        {
-          "name": "New attribute2",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "9baf9747-2e9a-43c4-97c0-ee46cf147d83",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        }
-      ],
+      "properties": [],
       "definitions": {
         "type": "definitions",
         "properties": [],
@@ -93,76 +29,12 @@
       "additionalProperties": false,
       "GUID": "f405e679-54fa-4dbf-aab3-ca08b566337e",
       "hackoladeMeta": {},
-      "description": "Tools, techniques, and legal resrtictions"
+      "description": "Tools, techniques, and legal restrictions"
     },
     {
       "collectionName": "Mining Production",
       "type": "object",
-      "properties": [
-        {
-          "name": "New attribute",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "8451c070-64c1-4162-9239-caee1f6e1946",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        },
-        {
-          "name": "New attribute1",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "43e6cff0-369b-4546-894c-9b7713ae3d80",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        },
-        {
-          "name": "New attribute2",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "6f3c6539-0590-4350-bcf3-041b9b6816bb",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        }
-      ],
+      "properties": [],
       "definitions": {
         "type": "definitions",
         "properties": [],
@@ -177,71 +49,7 @@
     {
       "collectionName": "Production Compensation",
       "type": "object",
-      "properties": [
-        {
-          "name": "New attribute",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "ab2c9a76-4f49-4e70-9dcb-f4d785e15b98",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        },
-        {
-          "name": "New attribute1",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "916f8018-2be6-4e45-a3fe-4773a91c6288",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        },
-        {
-          "name": "New attribute2",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "bf6912fb-0115-4d38-86a9-41913c9ffbba",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        }
-      ],
+      "properties": [],
       "definitions": {
         "type": "definitions",
         "properties": [],
@@ -256,71 +64,7 @@
     {
       "collectionName": "Party Details",
       "type": "object",
-      "properties": [
-        {
-          "name": "New attribute",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "329daeaf-e866-4828-ab31-453a264182c4",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        },
-        {
-          "name": "New attribute1",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "afdf0517-1f2e-48c9-9831-c3d87bbb60ba",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        },
-        {
-          "name": "New attribute2",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "bd46a26a-59de-44fb-9cab-13c948776257",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        }
-      ],
+      "properties": [],
       "definitions": {
         "type": "definitions",
         "properties": [],
@@ -335,71 +79,7 @@
     {
       "collectionName": "Ore Samples",
       "type": "object",
-      "properties": [
-        {
-          "name": "New attribute",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "f73d5ba6-a49a-44b7-810d-8daa9d53bf66",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        },
-        {
-          "name": "New attribute1",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "9f700c93-db49-4a04-92a2-edb045623869",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        },
-        {
-          "name": "New attribute2",
-          "hackoladeMeta": {},
-          "isActivated": true,
-          "primaryKey": false,
-          "required": false,
-          "alternateKey": false,
-          "childType": "varchar",
-          "type": "string",
-          "compositeKey": [
-            "compositePrimaryKey",
-            "compositeUniqueKey"
-          ],
-          "compositePrimaryKey": false,
-          "compositeUniqueKey": false,
-          "GUID": "8c79abd9-855d-4cd4-8793-8467469911c5",
-          "error": {
-            "name": false,
-            "code": false
-          }
-        }
-      ],
+      "properties": [],
       "definitions": {
         "type": "definitions",
         "properties": [],
@@ -428,7 +108,37 @@
       "level": "field",
       "GUID": "d475e419-acd4-4656-88e2-607107b844f3",
       "lineSize": 2,
-      "hackoladeMeta": {}
+      "hackoladeMeta": {},
+      "hackoladeStyles": {
+        "GUID": "5e4ca9ad-9ccd-4fb0-ad13-f4033a58dec9",
+        "autoPositioning": true,
+        "type": "Orthogonal",
+        "thickness": 2,
+        "color": "#79c4ff",
+        "dataType": "",
+        "shape": [
+          {
+            "x": 1329,
+            "y": 1161
+          },
+          {
+            "x": 1394.5,
+            "y": 1161
+          },
+          {
+            "x": 1394.5,
+            "y": 1153.5
+          },
+          {
+            "x": 1460,
+            "y": 1153.5
+          }
+        ],
+        "sides": [
+          "right",
+          "left"
+        ]
+      }
     },
     {
       "name": "",
@@ -444,7 +154,37 @@
       "GUID": "861a6d81-0657-4880-8392-bfcc6331b0ff",
       "lineSize": 2,
       "hackoladeMeta": {},
-      "materializationConstraintType": "nonIdentifying"
+      "materializationConstraintType": "nonIdentifying",
+      "hackoladeStyles": {
+        "GUID": "b054cdae-a545-448a-95de-aacd54a46a43",
+        "autoPositioning": true,
+        "type": "Orthogonal",
+        "thickness": 2,
+        "color": "#79c4ff",
+        "dataType": "",
+        "shape": [
+          {
+            "x": 1322,
+            "y": 1237.8470149253728
+          },
+          {
+            "x": 1391,
+            "y": 1237.8470149253728
+          },
+          {
+            "x": 1391,
+            "y": 1161
+          },
+          {
+            "x": 1460,
+            "y": 1161
+          }
+        ],
+        "sides": [
+          "right",
+          "left"
+        ]
+      }
     },
     {
       "name": "",
@@ -459,7 +199,37 @@
       "level": "field",
       "GUID": "81aaf8e3-43a5-4cf7-b9d4-2d5b411bf4aa",
       "lineSize": 2,
-      "hackoladeMeta": {}
+      "hackoladeMeta": {},
+      "hackoladeStyles": {
+        "GUID": "2b9cd2cf-19f7-49b0-81fc-33c4b5a40a2d",
+        "autoPositioning": true,
+        "type": "Orthogonal",
+        "thickness": 2,
+        "color": "#79c4ff",
+        "dataType": "",
+        "shape": [
+          {
+            "x": 1199.5,
+            "y": 1347
+          },
+          {
+            "x": 1199.5,
+            "y": 1304.9235074626863
+          },
+          {
+            "x": 1200,
+            "y": 1304.9235074626863
+          },
+          {
+            "x": 1200,
+            "y": 1262.8470149253728
+          }
+        ],
+        "sides": [
+          "top",
+          "bottom"
+        ]
+      }
     },
     {
       "name": "",
@@ -475,7 +245,37 @@
       "GUID": "af78b5b9-63c7-459f-815d-7715a1c08206",
       "lineSize": 2,
       "hackoladeMeta": {},
-      "materializationConstraintType": "nonIdentifying"
+      "materializationConstraintType": "nonIdentifying",
+      "hackoladeStyles": {
+        "GUID": "340a3e8d-bddf-49c6-86d5-bec5f9581c80",
+        "autoPositioning": true,
+        "type": "Orthogonal",
+        "thickness": 2,
+        "color": "#79c4ff",
+        "dataType": "",
+        "shape": [
+          {
+            "x": 1344,
+            "y": 1362
+          },
+          {
+            "x": 1402,
+            "y": 1362
+          },
+          {
+            "x": 1402,
+            "y": 1168.5
+          },
+          {
+            "x": 1460,
+            "y": 1168.5
+          }
+        ],
+        "sides": [
+          "right",
+          "left"
+        ]
+      }
     },
     {
       "name": "",
@@ -490,7 +290,37 @@
       "level": "field",
       "GUID": "e7c1328c-1cf1-4d96-830e-fa39c450a477",
       "lineSize": 2,
-      "hackoladeMeta": {}
+      "hackoladeMeta": {},
+      "hackoladeStyles": {
+        "GUID": "c3322434-406d-498d-80ff-aa648414f7b6",
+        "autoPositioning": true,
+        "type": "Orthogonal",
+        "thickness": 2,
+        "color": "#79c4ff",
+        "dataType": "",
+        "shape": [
+          {
+            "x": 1559,
+            "y": 1176
+          },
+          {
+            "x": 1559,
+            "y": 1261.5
+          },
+          {
+            "x": 1558.5,
+            "y": 1261.5
+          },
+          {
+            "x": 1558.5,
+            "y": 1347
+          }
+        ],
+        "sides": [
+          "bottom",
+          "top"
+        ]
+      }
     },
     {
       "name": "",
@@ -506,7 +336,37 @@
       "GUID": "2811acec-6b16-4769-9f4f-183ff1625fbb",
       "lineSize": 2,
       "hackoladeMeta": {},
-      "materializationConstraintType": "nonIdentifying"
+      "materializationConstraintType": "nonIdentifying",
+      "hackoladeStyles": {
+        "GUID": "ba2ac52b-4e51-4ae9-a4e2-5a8d128373a0",
+        "autoPositioning": true,
+        "type": "Orthogonal",
+        "thickness": 2,
+        "color": "#79c4ff",
+        "dataType": "",
+        "shape": [
+          {
+            "x": 1781.9800995024882,
+            "y": 1235.4009121061354
+          },
+          {
+            "x": 1719.990049751244,
+            "y": 1235.4009121061354
+          },
+          {
+            "x": 1719.990049751244,
+            "y": 1161
+          },
+          {
+            "x": 1658,
+            "y": 1161
+          }
+        ],
+        "sides": [
+          "left",
+          "right"
+        ]
+      }
     },
     {
       "name": "",
@@ -522,7 +382,37 @@
       "GUID": "4e71a1de-2a58-4d9f-8ec6-64616cb66c90",
       "lineSize": 2,
       "hackoladeMeta": {},
-      "materializationConstraintType": "nonIdentifying"
+      "materializationConstraintType": "nonIdentifying",
+      "hackoladeStyles": {
+        "GUID": "225dcd2a-31fd-4234-9988-fab619c724c6",
+        "autoPositioning": true,
+        "type": "Orthogonal",
+        "thickness": 2,
+        "color": "#79c4ff",
+        "dataType": "",
+        "shape": [
+          {
+            "x": 1322,
+            "y": 1242.8470149253728
+          },
+          {
+            "x": 1551.990049751244,
+            "y": 1242.8470149253728
+          },
+          {
+            "x": 1551.990049751244,
+            "y": 1245.5605306799332
+          },
+          {
+            "x": 1781.9800995024882,
+            "y": 1245.5605306799332
+          }
+        ],
+        "sides": [
+          "right",
+          "left"
+        ]
+      }
     },
     {
       "name": "",
@@ -538,7 +428,37 @@
       "GUID": "1d855924-ae41-4eb7-8455-931b4290a7da",
       "lineSize": 2,
       "hackoladeMeta": {},
-      "materializationConstraintType": "nonIdentifying"
+      "materializationConstraintType": "nonIdentifying",
+      "hackoladeStyles": {
+        "GUID": "672555d8-235b-4195-86ab-8a2b1dcbeb4e",
+        "autoPositioning": true,
+        "type": "Orthogonal",
+        "thickness": 2,
+        "color": "#79c4ff",
+        "dataType": "",
+        "shape": [
+          {
+            "x": 1322,
+            "y": 1247.8470149253728
+          },
+          {
+            "x": 1387.5,
+            "y": 1247.8470149253728
+          },
+          {
+            "x": 1387.5,
+            "y": 1354.5
+          },
+          {
+            "x": 1453,
+            "y": 1354.5
+          }
+        ],
+        "sides": [
+          "right",
+          "left"
+        ]
+      }
     },
     {
       "name": "",
@@ -553,6 +473,36 @@
       "lineSize": 2,
       "hackoladeMeta": {},
       "materializationConstraintType": "nonIdentifying",
+      "hackoladeStyles": {
+        "GUID": "fa6edff7-34ea-49f8-85e4-5bf3ffc0f78a",
+        "autoPositioning": true,
+        "type": "Orthogonal",
+        "thickness": 2,
+        "color": "#79c4ff",
+        "dataType": "",
+        "shape": [
+          {
+            "x": 1322,
+            "y": 1257.8470149253728
+          },
+          {
+            "x": 1387.5,
+            "y": 1257.8470149253728
+          },
+          {
+            "x": 1387.5,
+            "y": 1369.5
+          },
+          {
+            "x": 1453,
+            "y": 1369.5
+          }
+        ],
+        "sides": [
+          "right",
+          "left"
+        ]
+      },
       "childCardinality": "0..n"
     },
     {
@@ -568,6 +518,36 @@
       "lineSize": 2,
       "hackoladeMeta": {},
       "materializationConstraintType": "nonIdentifying",
+      "hackoladeStyles": {
+        "GUID": "a4f7dea4-df17-4833-be6a-7b7187712d68",
+        "autoPositioning": true,
+        "type": "Orthogonal",
+        "thickness": 2,
+        "color": "#79c4ff",
+        "dataType": "",
+        "shape": [
+          {
+            "x": 1322,
+            "y": 1252.8470149253728
+          },
+          {
+            "x": 1387.5,
+            "y": 1252.8470149253728
+          },
+          {
+            "x": 1387.5,
+            "y": 1362
+          },
+          {
+            "x": 1453,
+            "y": 1362
+          }
+        ],
+        "sides": [
+          "right",
+          "left"
+        ]
+      },
       "childCardinality": "0..n"
     }
   ],
@@ -576,30 +556,15 @@
   "idToNameHashTable": {
     "f85a06ab-70f4-40ea-9fee-ecc0230f2986": "Properties",
     "f405e679-54fa-4dbf-aab3-ca08b566337e": "Mining Method Used",
-    "45de4c06-ba07-4507-b35b-1a1550f23ff5": "New attribute",
-    "fbe0991d-3587-4f9e-b2f5-dd453aa263c7": "New attribute1",
-    "9baf9747-2e9a-43c4-97c0-ee46cf147d83": "New attribute2",
     "d475e419-acd4-4656-88e2-607107b844f3": "",
     "83cb2eaf-82c9-4e63-bd3c-0d47e214d892": "Mining Production",
-    "8451c070-64c1-4162-9239-caee1f6e1946": "New attribute",
-    "43e6cff0-369b-4546-894c-9b7713ae3d80": "New attribute1",
-    "6f3c6539-0590-4350-bcf3-041b9b6816bb": "New attribute2",
     "861a6d81-0657-4880-8392-bfcc6331b0ff": "",
     "cd5bce4d-af2a-4fb0-a525-6f47f0599f67": "Production Compensation",
-    "ab2c9a76-4f49-4e70-9dcb-f4d785e15b98": "New attribute",
-    "916f8018-2be6-4e45-a3fe-4773a91c6288": "New attribute1",
-    "bf6912fb-0115-4d38-86a9-41913c9ffbba": "New attribute2",
     "81aaf8e3-43a5-4cf7-b9d4-2d5b411bf4aa": "",
     "af78b5b9-63c7-459f-815d-7715a1c08206": "",
     "105aecbe-6319-4594-b11f-fe1c6cb767ca": "Party Details",
-    "329daeaf-e866-4828-ab31-453a264182c4": "New attribute",
-    "afdf0517-1f2e-48c9-9831-c3d87bbb60ba": "New attribute1",
-    "bd46a26a-59de-44fb-9cab-13c948776257": "New attribute2",
     "e7c1328c-1cf1-4d96-830e-fa39c450a477": "",
     "52f8019e-acb4-4be9-b29a-450d33e53b1b": "Ore Samples",
-    "f73d5ba6-a49a-44b7-810d-8daa9d53bf66": "New attribute",
-    "9f700c93-db49-4a04-92a2-edb045623869": "New attribute1",
-    "8c79abd9-855d-4cd4-8793-8467469911c5": "New attribute2",
     "2811acec-6b16-4769-9f4f-183ff1625fbb": "",
     "4e71a1de-2a58-4d9f-8ec6-64616cb66c90": "",
     "1d855924-ae41-4eb7-8455-931b4290a7da": "",
@@ -622,7 +587,15 @@
     "GUID": "3047a10a-f733-482e-80ed-6bea356b0289"
   },
   "sources": [],
-  "decorativeSymbols": [],
+  "decorativeSymbols": [
+    {
+      "GUID": "ec05b3b1-98a0-4c61-a2de-dcedd068932a",
+      "name": "Concept briefing",
+      "type": "annotation",
+      "disableInitialFocus": true,
+      "value": "Properties: Locations where mining is conducted<br>\nOre Samples: Assessing if mining is worthwhile<br>\nParty: Person or company involved in operations<br>\nMining Method Used: Tools, techniques, and legal restrictions<br>\nMining Production: Collecting material and sending to refinery<br>\nProduction Compensation: Distributing mining rewards<br>\n\n\n"
+    }
+  ],
   "businessGlossaries": [],
   "businessGlossaryTerms": [],
   "dbVendor": "Polyglot",
@@ -630,7 +603,7 @@
   "creationTS": "2026-03-05T03:04:59.167Z",
   "GUID": "1869d31c-e110-48f3-91b6-6d660b680244",
   "isLineageEnabled": false,
-  "lastModifTS": "2026-03-05T03:17:19.939Z",
+  "lastModifTS": "2026-03-05T03:29:14.736Z",
   "persistenceSchemaVersion": "8",
   "isCreatedByPlugin": true,
   "pluginInformation": {
@@ -647,60 +620,60 @@
         "erd": [
           {
             "GUID": "f85a06ab-70f4-40ea-9fee-ecc0230f2986",
-            "x": 1258,
-            "y": 1077,
-            "width": 180,
-            "height": 32,
+            "x": 1460,
+            "y": 1146,
+            "width": 198,
+            "height": 30,
             "color": {
               "hex": "#2196F3"
             }
           },
           {
             "GUID": "f405e679-54fa-4dbf-aab3-ca08b566337e",
-            "x": 1065,
-            "y": 1116,
-            "width": 240,
-            "height": 100,
+            "x": 1071,
+            "y": 1146,
+            "width": 258,
+            "height": 30,
             "color": {
               "hex": "#2196F3"
             }
           },
           {
             "GUID": "83cb2eaf-82c9-4e63-bd3c-0d47e214d892",
-            "x": 1144.7502800841946,
-            "y": 1372.77576341779,
-            "width": 240,
-            "height": 100,
+            "x": 1078,
+            "y": 1232.8470149253728,
+            "width": 244,
+            "height": 30,
             "color": {
               "hex": "#2196F3"
             }
           },
           {
             "GUID": "cd5bce4d-af2a-4fb0-a525-6f47f0599f67",
-            "x": 1220.0741325505762,
-            "y": 1648.4397450469562,
-            "width": 240,
-            "height": 100,
+            "x": 1055,
+            "y": 1347,
+            "width": 289,
+            "height": 30,
             "color": {
               "hex": "#2196F3"
             }
           },
           {
             "GUID": "105aecbe-6319-4594-b11f-fe1c6cb767ca",
-            "x": 1530.0741325505762,
-            "y": 1711.4397450469562,
-            "width": 240,
-            "height": 100,
+            "x": 1453,
+            "y": 1347,
+            "width": 211,
+            "height": 30,
             "color": {
               "hex": "#2196F3"
             }
           },
           {
             "GUID": "52f8019e-acb4-4be9-b29a-450d33e53b1b",
-            "x": 1855.0741325505762,
-            "y": 1562.4397450469562,
-            "width": 240,
-            "height": 100,
+            "x": 1781.9800995024882,
+            "y": 1225.2412935323377,
+            "width": 217.3383084577114,
+            "height": 30.478855721393035,
             "color": {
               "hex": "#2196F3"
             }
@@ -761,14 +734,36 @@
             }
           ],
           "buckets": [],
-          "decorativeSymbols": [],
+          "decorativeSymbols": [
+            {
+              "GUID": "ec05b3b1-98a0-4c61-a2de-dcedd068932a",
+              "x": 1183.188611627701,
+              "y": 881.9287115110671,
+              "height": 150,
+              "width": 300
+            }
+          ],
           "forceLayout": false,
           "defaultLinkLength": 300
         },
         "diagramViews": [],
-        "decorativeSymbols": [],
+        "decorativeSymbols": [
+          {
+            "GUID": "ec05b3b1-98a0-4c61-a2de-dcedd068932a",
+            "x": 1314.9978131777004,
+            "y": 958.4998304545009,
+            "height": 153,
+            "width": 425
+          }
+        ],
         "nestedCollectionsLayout": "horizontal",
-        "options": [],
+        "options": [
+          {
+            "autoWidth": false,
+            "autoHeight": false,
+            "GUID": "52f8019e-acb4-4be9-b29a-450d33e53b1b"
+          }
+        ],
         "relationshipUpdateDisabled": false
       },
       "collectionLevel": {},
