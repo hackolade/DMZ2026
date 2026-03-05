@@ -13,9 +13,8 @@
       "isActivated": true,
       "additionalProperties": false,
       "GUID": "f85a06ab-70f4-40ea-9fee-ecc0230f2986",
-      "hackoladeMeta": {
-        "validationErrors": {}
-      }
+      "hackoladeMeta": {},
+      "description": "Locations where mining is conducted"
     },
     {
       "collectionName": "Mining Method Used",
@@ -93,9 +92,8 @@
       "isActivated": true,
       "additionalProperties": false,
       "GUID": "f405e679-54fa-4dbf-aab3-ca08b566337e",
-      "hackoladeMeta": {
-        "validationErrors": {}
-      }
+      "hackoladeMeta": {},
+      "description": "Tools, techniques, and legal resrtictions"
     },
     {
       "collectionName": "Mining Production",
@@ -173,9 +171,8 @@
       "isActivated": true,
       "additionalProperties": false,
       "GUID": "83cb2eaf-82c9-4e63-bd3c-0d47e214d892",
-      "hackoladeMeta": {
-        "validationErrors": {}
-      }
+      "hackoladeMeta": {},
+      "description": "Collecting material and sending to refinery"
     },
     {
       "collectionName": "Production Compensation",
@@ -253,9 +250,8 @@
       "isActivated": true,
       "additionalProperties": false,
       "GUID": "cd5bce4d-af2a-4fb0-a525-6f47f0599f67",
-      "hackoladeMeta": {
-        "validationErrors": {}
-      }
+      "hackoladeMeta": {},
+      "description": "Distributing mining rewards"
     },
     {
       "collectionName": "Party Details",
@@ -333,9 +329,8 @@
       "isActivated": true,
       "additionalProperties": false,
       "GUID": "105aecbe-6319-4594-b11f-fe1c6cb767ca",
-      "hackoladeMeta": {
-        "validationErrors": {}
-      }
+      "hackoladeMeta": {},
+      "description": "Person or company involved in operations"
     },
     {
       "collectionName": "Ore Samples",
@@ -413,9 +408,8 @@
       "isActivated": true,
       "additionalProperties": false,
       "GUID": "52f8019e-acb4-4be9-b29a-450d33e53b1b",
-      "hackoladeMeta": {
-        "validationErrors": {}
-      }
+      "hackoladeMeta": {},
+      "description": "Assessing if mining is worthwhile"
     }
   ],
   "buckets": [],
@@ -636,7 +630,7 @@
   "creationTS": "2026-03-05T03:04:59.167Z",
   "GUID": "1869d31c-e110-48f3-91b6-6d660b680244",
   "isLineageEnabled": false,
-  "lastModifTS": "2026-03-05T03:14:09.673Z",
+  "lastModifTS": "2026-03-05T03:17:19.939Z",
   "persistenceSchemaVersion": "8",
   "isCreatedByPlugin": true,
   "pluginInformation": {
@@ -725,9 +719,7 @@
           "childField": [],
           "parentField": []
         },
-        "selectedCollections": [
-          "f405e679-54fa-4dbf-aab3-ca08b566337e"
-        ],
+        "selectedCollections": [],
         "displayColorPicker": false,
         "graphView": {
           "erd": [
@@ -740,8 +732,8 @@
             {
               "GUID": "f405e679-54fa-4dbf-aab3-ca08b566337e",
               "size": 100,
-              "x": 1039.773667685911,
-              "y": 1058.5319206697416
+              "x": 1038.773667685911,
+              "y": 1062.5319206697416
             },
             {
               "GUID": "83cb2eaf-82c9-4e63-bd3c-0d47e214d892",
